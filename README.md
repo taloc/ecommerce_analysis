@@ -1,4 +1,4 @@
-# E-commerce Sales Analysis Dashboard
+# Historical Sales Data Analysis and Visualizations
 
 ## Overview
 
